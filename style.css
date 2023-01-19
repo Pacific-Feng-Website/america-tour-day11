@@ -708,6 +708,15 @@ nav .icon-list{
 	}
 }
 
+#hand-p{
+	color: #A2B59F;
+}
+
+#hand-p:hover{
+	color: #EACACB;
+	transition: .3s;
+}
+
 @media only screen and (max-width: 750px){
 	#mainContent iframe{
 		width: 95%;
